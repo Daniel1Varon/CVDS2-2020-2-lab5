@@ -26,3 +26,7 @@ Existen 5 categorias de codigos los cuales se definen por la centesima del numer
 En el momento de ingresar por medio de telnet al host www.httpbin.org por el puerto 80 y pedir el archivo /html con la version de HTTP 1.1 nos genera el mismo error que nos generaba la consulta a la pagina de la escuela 
 ![Imagen](https://github.com/Daniel1Varon/CVDS2-2020-2-lab5/blob/master/Imagenes%20Error/Error%20GET%20html.PNG?raw=true)
 
+
+### Parte II. - Haciendo una aplicación Web dinámica a bajo nivel.
+
+El puerto TCP/IP que está configurado es el 8080 para el servidor embebido de Tomcat.
