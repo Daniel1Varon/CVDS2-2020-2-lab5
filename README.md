@@ -22,3 +22,7 @@ Existen 5 categorias de codigos los cuales se definen por la centesima del numer
 
 5. **5xx: Errores de servidor** Los códigos de respuesta que comienzan con el dígito "5" indican casos en los cuales el servidor tiene registrado aún antes de servir la solicitud, que está errado o es incapaz de ejecutar la petición. Excepto cuando está respondiendo a un método HEAD, el servidor debe incluir una entidad que contenga una explicación de la situación de error, y si es una condición temporal o permanente.
 
+
+En el momento de ingresar por medio de telnet al host www.httpbin.org por el puerto 80 y pedir el archivo /html con la version de HTTP 1.1 nos genera el mismo error que nos generaba la consulta a la pagina de la escuela 
+![Imagen](https://github.com/Daniel1Varon/CVDS2-2020-2-lab5/blob/master/Imagenes%20Error/Error%20GET%20html.PNG?raw=true)
+
