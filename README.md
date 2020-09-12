@@ -30,3 +30,6 @@ En el momento de ingresar por medio de telnet al host www.httpbin.org por el pue
 ### Parte II. - Haciendo una aplicación Web dinámica a bajo nivel.
 
 El puerto TCP/IP que está configurado es el 8080 para el servidor embebido de Tomcat.
+
+Al ejecutar el servidor y buscar en el navegador la URL localhost:8080/helloServlet?name=%20Sebastian se obtiene como resultado la pagina con el texto "Hello Sebastian!".
+![Imagen](https://github.com/Daniel1Varon/CVDS2-2020-2-lab5/blob/master/Imagenes%20Error/helloServlet.PNG?raw=true)
